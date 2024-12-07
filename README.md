@@ -22,5 +22,41 @@ NTTK smart contract <br/>
    Account name: hsbc<br/>
    Password: hsbc<br/>
 
-Feel free to use differeent accounts to login to see different interfaces.
+Feel free to use differeent accounts to login to see different interfaces.<br/>
+Login Page:<br/>
 ![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/001.png)
+
+# SME Page
+1.SME first page showing its token balance and funtions to convert HKD to TTK and TTK back to HKD
+![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/002.png)
+
+
+![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/003.png)
+
+2. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
