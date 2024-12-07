@@ -28,7 +28,7 @@ Login Page:<br/>
 ![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/007.png)
 
 - [SME](#sme-page)
-- [HSBC](#banks-page-eg-hsbc)
+- [HSBC](#bank-page-eg-hsbc)
 - [Admin](#admin-page)
 
 ## SME Page
