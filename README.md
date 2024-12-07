@@ -8,7 +8,7 @@ NTTK smart contract <br/>
 (https://sepolia.etherscan.io/address/0x987A5A1a8300ABbe1CB8237dA8075AcB37f175FC) <br/>
 
 ## UI
-# The demo website is deployed to: (https://cloajuhdjsdt0p9i3y6ogiowudpvyn2c.vercel.app/)
+# The demo website is deployed to: ([https://cloajuhdjsdt0p9i3y6ogiowudpvyn2c.vercel.app/](https://gmd7nkdyjvidmgvqdlewnbeo5fenfa1s.vercel.app/))
 *Please note that this demo website has no relationship with any banks
 
 3 accounts aree created<br/>
