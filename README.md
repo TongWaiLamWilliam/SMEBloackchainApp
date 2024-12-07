@@ -25,19 +25,22 @@ NTTK smart contract <br/>
 Feel free to use differeent accounts to login to see different interfaces.<br/>
 Login Page:<br/>
 ![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/001.png)
+![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/007.png)
 
 # SME Page
-1.SME first page showing its token balance and funtions to convert HKD to TTK and TTK back to HKD
+1.SME first page (My Wallet) showing its token balance and funtions to convert HKD to TTK and TTK back to HKD
 ![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/002.png)
-
 
 ![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/003.png)
 
-2. 
+2. Transfer page: sending TKK/NTTK for transactional purpose
+![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/004.png)
 
+3. Apply NTTK page: applying loans (NTTK)
+![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/005.png)
+![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/006.png)
 
-
-
+4.
 
 
 
