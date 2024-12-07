@@ -21,3 +21,6 @@ NTTK smart contract <br/>
 4. bank portal<br/>
    Account name: hsbc<br/>
    Password: hsbc<br/>
+
+Feel free to use differeent accounts to login to see different interfaces.
+![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/001.png)
