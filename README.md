@@ -53,7 +53,7 @@ Also, promotion code and campaign recorded is added for giving incentives for SM
 ![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/010.png)
 
 
-## Bank Page (eg HSBC)
+## Bank Page eg HSBC
 ### 1. Main page: Showing blockchain summary data
 ![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/067.png)
 ![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/012.png)
