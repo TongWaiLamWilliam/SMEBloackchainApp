@@ -8,7 +8,7 @@ NTTK smart contract <br/>
 (https://sepolia.etherscan.io/address/0x987A5A1a8300ABbe1CB8237dA8075AcB37f175FC) <br/>
 
 ## UI
-# The demo website is deployed to: ([https://cloajuhdjsdt0p9i3y6ogiowudpvyn2c.vercel.app/](https://gmd7nkdyjvidmgvqdlewnbeo5fenfa1s.vercel.app/))
+### The demo website is deployed to: ([https://cloajuhdjsdt0p9i3y6ogiowudpvyn2c.vercel.app/](https://gmd7nkdyjvidmgvqdlewnbeo5fenfa1s.vercel.app/))
 *Please note that this demo website has no relationship with any banks
 
 3 accounts aree created<br/>
@@ -27,22 +27,26 @@ Login Page:<br/>
 ![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/001.png)
 ![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/007.png)
 
-# SME Page
-1.SME first page (My Wallet) showing its token balance and funtions to convert HKD to TTK and TTK back to HKD
+## SME Page
+### 1.SME first page (My Wallet) showing its token balance and funtions to convert HKD to TTK and TTK back to HKD
 ![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/002.png)
 
 ![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/003.png)
 
-2. Transfer page: sending TKK/NTTK for transactional purpose
+### 2.Transfer page: sending TKK/NTTK for transactional purpose
 ![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/004.png)
 
-3. Apply NTTK page: applying loans (NTTK)
+### 3.Apply NTTK page: applying loans (NTTK)
 ![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/005.png)
 ![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/006.png)
 
-4.
+### 4. My Credit Score Page: checking SME's credit score based on its transactions using TTK & NTTK
+![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/008.png)
 
-
+### 5. My Info page: Inputting SME's business information to off-chain database
+![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/009.png)
+Also, promotion code and campaign recorded is added for giving incentives for SME to attract new users
+![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/010.png)
 
 
 
