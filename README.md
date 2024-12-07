@@ -27,9 +27,9 @@ Login Page:<br/>
 ![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/001.png)
 ![image](https://github.com/TongWaiLamWilliam/SMEBloackchainApp/blob/main/images/007.png)
 
-- [SME](#sme-page)
-- [HSBC](#bank-page-eg-hsbc)
-- [Admin](#admin-page)
+- [SME Page](#sme-page)
+- [Bank Page-HSBC](#bank-page-eg-hsbc)
+- [Admin Page](#admin-page)
 
 ## SME Page
 ### 1.SME first page (My Wallet): Showing its token balance and funtions to convert HKD to TTK and TTK back to HKD
