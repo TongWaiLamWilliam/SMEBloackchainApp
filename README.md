@@ -6,3 +6,18 @@ TTK smart contract <br/>
 (https://sepolia.etherscan.io/address/0x3b300cDAB2349E38b86b24850cb62B7781513b17) <br/>
 NTTK smart contract <br/>
 (https://sepolia.etherscan.io/address/0x987A5A1a8300ABbe1CB8237dA8075AcB37f175FC) <br/>
+
+## UI
+# The demo website is deployed to: (https://cloajuhdjsdt0p9i3y6ogiowudpvyn2c.vercel.app/)
+*Please note that this demo website has no relationship with any banks
+
+3 accounts aree created<br/>
+1. SME perspective<br/>
+   Account name: SME1<br/>
+   Password: 123<br/>
+3. admin portal<br/>
+   Account name: admin<br/>
+   Password: admin<br/>
+4. bank portal<br/>
+   Account name: hsbc<br/>
+   Password: hsbc<br/>
